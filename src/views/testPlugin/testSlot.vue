@@ -20,6 +20,7 @@
 </script>
 
 <template>
+  <!--
   <div class="p2">
     <div>测试插件插槽</div>
     <a-space>
@@ -30,4 +31,5 @@
 <!--      <div>{{ key }}: {{ value }}</div>-->
 <!--    </template>-->
   </div>
+  -->
 </template>
