@@ -20,16 +20,16 @@
 </script>
 
 <template>
-  <!--
-  <div class="p2">
-    <div>测试插件插槽</div>
-    <a-space>
-        <a-button @click="printTrace" hidden>打印Trace</a-button>
-        <a-button @click="printJson">打印JSON</a-button>
-    </a-space>
+
+ <!--  <div class="p2">-->
+ <!--    <div>测试插件插槽</div>v
+ <!--    <a-space>-->
+     <!--    <a-button @click="printTrace" hidden>打印Trace</a-button>-->
+      <!--   <a-button @click="printJson">打印JSON</a-button>-->
+<!--     </a-space>
 <!--    <template v-for="(value, key) in canvas.activeObject.value?.proxyData" :key="key">-->
 <!--      <div>{{ key }}: {{ value }}</div>-->
 <!--    </template>-->
-  </div>
-  -->
+ <!--  </div>-->
+ 
 </template>
